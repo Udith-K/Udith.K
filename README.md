@@ -1,6 +1,6 @@
 # Udith.K
 <h1 align="center">Hi 👋, I'm Udith</h1>
-<h3 align="center">A passionate full-stack developer and cybersecurity enthusiast from Sri Lanka</h3>
+<h3 align="center">A passionate cybersecurity enthusiast from Galle Sri Lanka</h3>
 
 - 🔭 I’m currently working on **a web application to: Educate employees on security best practices Manage and monitor policy compliance Track security-related activities for an organization**
 
