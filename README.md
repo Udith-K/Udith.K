@@ -10,7 +10,7 @@
 
 - 📝 I write about tech, security, and productivity on [LinkedIn](https://www.linkedin.com/in/udith-k)
 
-- 📫 Reach me via **udith.k@example.com** *(replace with your real email)*
+- 📫 Reach me via **u.kaushalya4410@gmail.com** *(replace with your real email)*
 
 - ⚡ Fun fact: I love turning security ideas into real-world mobile/web apps
 
